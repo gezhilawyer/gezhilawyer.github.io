@@ -1,0 +1,44 @@
+
+.clearfix:before,
+.clearfix:after {
+	content: "";
+	display: table
+}
+
+.clearfix:after {
+	clear: both
+}
+
+.clearfix {
+	*zoom: 1
+}
+
+body {
+	font-size: 14px;
+	line-height: 1.5;
+	font-family: "microsoft yahei", Arial, Helvetica, sans-serif, simsun;
+	color: #666
+}
+
+a {
+	color: #666;
+	outline: none;
+	font-size: 14px;
+	line-height: 1.5;
+	text-decoration: none;
+	font-family: "microsoft yahei", Arial, Helvetica, sans-serif, simsun
+}
+
+a,
+button,
+input,
+textarea {
+	-webkit-tap-highlight-color: transparent
+}
+
+li {
+	list-style: none
+}
+.font14{ font-size:14px;}
+.font16{ font-size:16px;}
+*{padding:0;margin:0;}

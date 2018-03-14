@@ -1,0 +1,81 @@
+.pc{width:100%;height:auto;}
+.pc{ display:block;}
+.mob{ display:none;}
+.mob{width:100%;height:auto;}
+.pctop{width:100%;height:58px; position:absolute;top:0px; background-color:rgba(102,107,113,0.4); z-index:999;}
+.pcbanner{width:100%;height:auto}
+.pcbanner img{ width:100%; height:auto;}
+.pctopnav{width:1200px;height:58px;margin:0px auto}
+.pctopnav ul li{float:left;height:58px;line-height:58px;}
+.pctopnav ul a{color:#fff;font-size:16px;}
+.pclogo{}
+.pcnav{margin-left:40px;}
+.pcwktime{margin-left:100px;font-size:16px;color:#fff;}
+.pcyewu{width:1200px;height:auto;margin:0px auto;}
+.pcyewu ul li{float:left;width:120px;height:auto;margin-left:150px;margin-top:70px;text-align:center;}
+.pcyewu ul li p{height:50px;line-height:50px;text-align:center;margin-top:30px;}
+.pcyewu ul li p a:hover{color:#C00;}
+.midbanner{width:100%;height:auto;overflow:hidden;margin-top:70px;  }
+.midbanner img{width:100%;height:100%;padding:0px auto;margin:0px auto;display:block;}
+.pcanlei{width:100%;height:auto;background-color:#F06433;margin-top:0px;}
+.pcanlei_tit{width:100%;height:80px;margin-top:30px;border-bottom:1px solid #fff;}
+.pcanlei_tit1{width:500px;height:80px;margin:0px auto; text-align:center; color:#fff;line-height:50px;font-size:24px;}
+.pchr{width:150px;height:1px; border:1px solid #fff; position:absolute; background:#fff;left:50%;margin-left:-75px;}
+.pcanlei_cont{width:1200px;height:auto;margin:0px auto;}
+.pcanlei_cont1{width:100%; height:50px;margin-top:50px;}
+.pcanlei_cont1 ul li{float:left; height:50px;width:276px;line-height:50px; margin-left:20px;text-align:center;color:#fff;font-size:18px; font-weight:400}
+.pcanlei_cont2 ul li img{width:98%;height:auto;}
+.pcanlei_cont1 ul li:hover{border:1px solid #fff;border-radius:10px; cursor:pointer;}
+.pcanlei_cont2{width:1200px; height:auto;margin-top:50px; }
+.pcanlei_cont2 ul li{height:auto;width:276px;float:left;margin-left:20px;color:#fff;font-size:16px;margin-top:30px; }
+.pcanlei_cont2 ul li p a{color:#fff;}
+.pcanlei_cont2 ul li p{margin-top:10px;}
+.pcanlei_cont2 ul li p a:hover{text-decoration:underline;}
+.pcanlei_cont2 ul li p:nth-child(even){text-align:center;}
+.pcanleimore{width:160px;height:40px;line-height:40px;text-align:center; border-radius:5px; border:1px solid #fff;margin:0px auto;color:#fff;margin-top:50px;margin-bottom:50px;}
+.pcteam{width:100%; height:auto;}
+.pcteam_tit{width:100%;height:80px;margin-top:30px;border-bottom:1px solid #ccc;}
+.pcteam_tit1{width:500px;height:80px;margin:0px auto; text-align:center; line-height:50px;font-size:24px;}
+.pcteam_tit.pchr{width:150px;height:1px; border:1px solid #FF7E16; position:absolute; background:#fff;left:50%;margin-left:-75px;}
+.pcteam_cont1{width:1200px;height:auto; text-align:center;margin:0px auto;margin-top:45px;}
+.pcteam_cont2{width:1100px;height:auto; text-align:center;margin:0px auto;margin-top:45px;}
+.pcteam_cont2 ul li{float:left; width:20%; text-align:center; cursor:pointer;}
+.pcteam_cont2 ul li img{width:70%;height:auto;}
+.pcteammore{width:160px;height:40px;line-height:40px;text-align:center; border-radius:5px; border:1px solid #ccc;margin:0px auto;color:#999;margin-top:60px;}
+.pcteammore a:hover{color:#fff;}
+.pcteammore:hover{ background-color:#F06433; color:#fff;}
+
+
+.bttm{width:100%;height:160px; text-align:center; background-color:#3D3938;margin-top:70px; position:relative;color:#999;}
+.bttm div{width:100%;height:8px; position:absolute;top:50%;margin-top:-40px;}
+.popwidow{position:absolute;width:70%;min-height:300px; height:auto;padding-bottom:20px;top:500px;left:10%; z-index:9999; display:none; background-color:#fff; box-shadow: 3px 3px 3px 3px #888888;}
+.btcolse:hover{color:red;}
+.pcmune{position:absolute;top:57px; width:250px;height:auto; background:#ED8663; display:none;}
+.pcmune ul li{ float:left; width:50%; text-align:center;}
+.pcmune ul li a{ color:#fff;}
+.dingwei{ position:fixed; bottom:120px; right:20px; width:60px; height:255px; z-index:999;background-color:#F06433}
+.dingwei a{ padding-bottom:5px; display:block; }
+.tel{
+	display:none; 
+    font-size: 18px;
+    position: absolute;
+    left: -141px;
+    top: 0;
+    width: 139px;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    background-color: #F06433;
+    color: #fff;
+	border-radius:10px;
+}
+.erweima{ display:none; position:absolute; left:-100px; top:0px;}
+.a_1{ position:relative;}
+.a_1:hover .tel{ display:block!important;}
+.a_2{ position:relative;}
+.a_2:hover .erweima{ display:block;}
+.erweima img{ width:100px; height:100px;}
+
+
+
+
